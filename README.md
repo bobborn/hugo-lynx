@@ -1,0 +1,2 @@
+# hugo-lynx
+hugo template
